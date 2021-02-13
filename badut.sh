@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  KS     __|"
 echo "|__________| $merah"
 echo "                     _________________________"
 echo "                    | Ferramenta de login 1•  |"
