@@ -73,10 +73,10 @@ clear
 sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/Darkziinh/SITEX
-git clone https://github.com/Darkziinh/apikey
-git clone https://github.com/Darkziinh/testek
-cd darkbot3.0
+git clone https://github.com/jogadorks/SITEX
+git clone https://github.com/jogadorks/apikey
+git clone https://github.com/jogadorks/testek
+cd ksbot2
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 3 etapas de senhas...."
